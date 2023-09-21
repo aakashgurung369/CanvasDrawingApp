@@ -1,5 +1,5 @@
 <br>
-  <h2 align="center">Drawing App</h2>
+  <h2 align="center">Canvas Drawing </h2>
 
   Responsive for all devices, build using HTML, CSS, and JavaScript. </br>
 
