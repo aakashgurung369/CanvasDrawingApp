@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#content {
+    width: 1020px;
+    height: 580px;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 48px;
+    cursor: crosshair;
+}
+form{
+    position: absolute;
+    width: 280px;
+    background: lightgray;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
